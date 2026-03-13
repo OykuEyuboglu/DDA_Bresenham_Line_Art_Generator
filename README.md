@@ -95,9 +95,8 @@ These features transform the program into a simple **generative digital art visu
 
 ## 📺 Demo Video
 
-You can watch the program output here:
-
-🔗 https://youtu.be/3-hhxjmYb6Q
+[![Watch the demo](https://img.youtube.com/vi/3-hhxjmYb6Q/0.jpg)](https://youtu.be/3-hhxjmYb6Q)
+> Click the thumbnail to watch the full demo.
 
 ---
 
